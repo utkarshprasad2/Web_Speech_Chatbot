@@ -16,13 +16,19 @@
 - Dynamic UI Design 🎨: Created an interface that enables users to speak to the chatbot and see its responses.
 - Speech API Integration 🗣️: Mastered the Web Speech API for recognizing and synthesizing speech in real time.
 - Cross-Browser Testing 🔍: Addressed variations in browser support for experimental APIs.
+
 🌟 Backend Development
+
 - Node.js for Server-Side Logic 💻: Designed a backend to handle requests, process user input, and manage chatbot responses.
 - Socket.IO Integration 🔄: Ensured efficient real-time communication between the server and client.
 - API Handling 🌐: Connected the chatbot to Dialogflow, enabling natural language processing and intelligent responses.
+
 🌟 Full-Stack Capabilities
+
 - Asynchronous Programming 🔧: Managed async operations to coordinate real-time data flow between client and server.
 - Cloud NLP Services 🧠: Leveraged Dialogflow to bring conversational AI to life.
+
 🌟 Problem Solving & Debugging
+
 - Error Handling 🐞: Addressed challenges in implementing speech APIs and ensuring smooth user experiences.
 - Optimizing Performance 🚀: Fine-tuned the chatbot’s responsiveness for real-time interactions.
